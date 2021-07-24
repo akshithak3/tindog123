@@ -1,0 +1,72 @@
+body{
+	text-align: center;
+	font-family: "montserrat";
+}
+
+h1 {
+	font-family: "montserrat-black";
+	font-size: 5rem;
+    line-height: 1.5;
+}
+
+#title{
+	background: #ff4c68;
+	color: #ffffff;
+}
+
+.container-fluid {
+	padding: 3% 15%;
+}
+
+.col-lg-6 {
+	padding: 20px;
+
+}
+.navbar-brand {
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+#features {
+	text-align: center;
+	padding: 7% 15%;
+}
+
+.icon {
+	padding: 6%;
+	font-family: "montserrat-bold"
+}
+
+p{
+	color: grey;
+}
+
+.me{
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+
+.me:hover {
+  color: #ff4c68;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+.phuto {
+	width: 300px;
+	height: 600px;
+
+}
+
+.ok {
+	padding: 50px;
+	padding-top: 40px;
+}
+
+.okiee {
+	padding: 50px;
+	font-size: 20px;
+}
